@@ -1,2 +1,6 @@
 Chpater3
+<<<<<<< HEAD
 All the rumour between chapter2 and chapter3 is false
+=======
+Not gonna happen anymore
+>>>>>>> chapter3
